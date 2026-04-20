@@ -9,5 +9,14 @@
       <description>Agent 脚手架</description>
       <repository>https://packages.aliyun.com/maven/2652996-release-61bYlK/</repository>
     </archetype>
+
+    <archetype>
+      <groupId>${package}</groupId>
+      <artifactId>${artifactId}-archetype</artifactId>
+      <version>1.1</version>
+      <repository>https://packages.aliyun.com/maven/2652996-release-61bYlK/</repository>
+      <description>Agent 脚手架</description>
+    </archetype>
+    
   </archetypes>
 </archetype-catalog>
