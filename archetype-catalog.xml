@@ -17,6 +17,14 @@
       <repository>https://packages.aliyun.com/maven/2652996-release-61bYlK/</repository>
       <description>Agent 脚手架</description>
     </archetype>
+
+    <archetype>
+      <groupId>cn.caliu.agent</groupId>
+      <artifactId>agent-scaffold-lite-archetype</artifactId>
+      <version>1.2</version>
+      <repository>https://packages.aliyun.com/maven/2652996-release-61bYlK/</repository>
+      <description>Agent 脚手架</description>
+    </archetype>
     
   </archetypes>
 </archetype-catalog>
